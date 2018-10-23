@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReadData</string>
+    <string name="showData">ShowData</string>
+</resources>
