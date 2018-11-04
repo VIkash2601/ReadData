@@ -1,4 +1,4 @@
-package com.example.nmc.readdata;
+package com.example.nmc.readData;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

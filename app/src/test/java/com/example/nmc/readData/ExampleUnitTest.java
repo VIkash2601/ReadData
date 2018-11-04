@@ -1,4 +1,4 @@
-package com.example.nmc.readdata;
+package com.example.nmc.readData;
 
 import org.junit.Test;
 
